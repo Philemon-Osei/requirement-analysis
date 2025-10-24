@@ -59,3 +59,37 @@
     </li>
   </ol>
 </section>
+<section>
+  <h2>Types of Requirements.</h2>
+  <subsection>
+    <h3F>unctional Requirements ⚙️</h3F>
+    <ul>
+      <li>Definition: Describe what the system should do.</li>
+      <lii>Examples: User authentication, property search, booking system, user registration.</lii>
+    </ul>
+  </subsection>
+  <subsection>
+    <h3>Non-functional Requirements 🛡️</h3>
+    <ul>
+      <li>Definition: Describe how the system should perform.</li>
+      <li>Examples: Performance, security, scalability, usability, reliability.</li>
+    </ul>
+  </subsection>
+</section>
+<section>
+  <h2>Use Case Diagram</h2>
+  <h3>What is Use Case Diagram</h3>
+  <p>Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).</p>
+  <h3>Benefit of USe Case Diagrams</h3>
+  <ul>
+    <li>Provide a clear visual representation of system functionalities.</li>
+    <li>Help in identifying and organizing system requirements.</li>
+    <li> Facilitate communication among stakeholders and development team.</li>
+  </ul>
+</section>
+<section>
+  <h2>Acceptance Criteria</h2>
+  <p>Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.</p>
+   <p> It ensures all parties have a clear understanding of feature requirements.It also provide a basis for testing and validation.
+    Acceptance citeria help in maintaining quality and meeting user expectations.</p>
+</section>
